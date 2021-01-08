@@ -3,7 +3,7 @@
 - Clone project : ``git clone https://github.com/kojofosu/EurekaServer.git``
 - Create resource folder in path `src/main/resources`
 - Create `application.properties` file in the resource folder
-- Add below properties in the properties folder
+- Add below properties in the properties file
 
 ```properties
 spring.application.name=eureka-server
